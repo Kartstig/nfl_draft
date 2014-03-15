@@ -1,0 +1,25 @@
+<div class="container">
+	<%= render "/libs/nav" %>
+	<table class="table">
+		<tr>
+			<td>id</td>
+			<td>Player Name</td>
+			<td>Position</td>
+			<td>Team</td>
+		</tr>
+		<% if @player.team %>
+			<tr class="success">
+		<% else %>
+			<tr class="warning">
+		<% end %>
+			<td><%= @player.id %></td>
+			<td><%= link_to @player.name, @player %></td>
+			<td><%= @player.position %></td>
+		<% if @player.team %>
+			<td><%= link_to @player.team.name, @player.team %></td>
+		<% else %>
+			<td><i>Not yet drafted</i></td>
+		<% end %>
+		</tr>
+	</table>
+</div>

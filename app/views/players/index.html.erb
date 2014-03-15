@@ -1,0 +1,39 @@
+<div class="container">
+	<%= render "/libs/nav" %>
+	<table class="table">
+		<tr>
+			<td>id</td>
+			<td>Player Name</td>
+			<td>Position</td>
+			<td>Team</td>
+		</tr>
+		<% @players.each do |player| %>
+			<% if player.team %>
+				<tr class="success">
+					<td><%= player.id %></td>
+					<td><%= link_to player.name, player %></td>
+					<td><%= player.position %></td>
+					<td><%= link_to player.team.name, player.team %></td>
+				</tr>
+			<% else %>
+				<tr class="warning">
+					<td><%= player.id %></td>
+					<td><%= link_to player.name, player %></td>
+					<td><%= player.position %></td>
+					<td>
+					<% if @draft %>
+						<%= form_tag("/teams/acquire", method: "post") do %>
+							
+								<%= hidden_field_tag(:team_id, @draft.team.id) %>
+								<%= hidden_field_tag(:player_id, player.id) %>
+								<%= submit_tag "Acquire to %s" % [@draft.team.name], :class => "btn btn-success" %>
+						<% end %>
+					<% else %>
+						<i>Not drafted...</i>
+					<% end %>
+					</td>
+				</tr>
+			<% end %>
+		<% end %>
+	</table>
+</div>

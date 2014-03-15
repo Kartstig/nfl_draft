@@ -1,0 +1,30 @@
+<div class="container">
+	<%= render "/libs/nav" %>
+	<table class="table">
+		<tr>
+			<td>id</td>
+			<td>Round</td>
+			<td>Pick</td>
+			<td>Player Name</td>
+			<td>Team Name</td>
+		</tr>
+		<% @drafts.each do |draft| %>
+			<% player = draft.player %>
+			<% if player %>
+				<tr class="success">
+			<% else %>
+				<tr class="warning">
+			<% end %>
+					<td><%= draft.id %></td>
+					<td><%= draft.round %></td>
+					<td><%= draft.pick %></td>
+					<% if player %>
+						<td><%= player.name %></td>
+					<% else %>
+						<td><i>Pending...</i></td>
+					<% end %>
+					<td><%= link_to draft.team.name, draft.team %></td>
+				</tr>
+		<% end %>
+	</table>
+</div>

@@ -1,0 +1,46 @@
+<div class="row">
+	<ul class="nav nav-pills">
+		<!-- Home -->
+		<li class="<%= 'active' if params[:controller] == 'welcome' %>">
+			<%= link_to "Home", root_path %>
+		</li>
+
+		<!-- Teams -->
+		<li class="<%= 'active' if params[:controller] == 'teams' %>">
+			<%= link_to "Teams", teams_path %>
+		</li>
+		
+		<!-- Players -->
+		<li class="dropdown <%= 'active' if params[:controller] == 'players' %>">
+		    <a class="dropdown-toggle"
+		       data-toggle="dropdown"
+		       href="#">Players
+		        <b class="caret"></b>
+		    </a>
+		    <ul class="dropdown-menu">
+		    	<li><a href="/players/available">Available</a></li>
+		    	<li><a href="/players/">All Players</a></li>
+		    </ul>
+		</li>
+
+		<!-- Results -->
+		<li class="dropdown <%= 'active' if params[:controller] == 'results' %>">
+		    <a class="dropdown-toggle"
+		       data-toggle="dropdown"
+		       href="#">Results
+		        <b class="caret"></b>
+		    </a>
+		    <ul class="dropdown-menu">
+		    	<li><a href="/results/">Latest</a></li>
+		    	<li><a href="/results/round/1">Round 1</a></li>
+		    	<li><a href="/results/round/2">Round 2</a></li>
+		    	<li><a href="/results/round/3">Round 3</a></li>
+		    	<li><a href="/results/round/4">Round 4</a></li>
+		    	<li><a href="/results/round/5">Round 5</a></li>
+		    	<li><a href="/results/round/6">Round 6</a></li>
+		    	<li><a href="/results/round/7">Round 7</a></li>
+		    	<li><a href="/results/all">All Results</a></li>
+		    </ul>
+		</li>
+	</ul>
+</div>

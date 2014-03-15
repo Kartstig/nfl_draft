@@ -1,0 +1,25 @@
+<div class="container">
+	<%= render "/libs/nav" %>
+	<table class="table">
+		<h2><%= @team.name %></h2>
+		<h4><%= @team.division %><h4>
+		<hr>
+		<h3>Players</h3>
+		<% if @players %>
+			<tr>
+				<td>id</td>
+				<td>Name</td>
+				<td>Position</td>
+			</tr>
+			<% @players.each do |player| %>
+				<tr>
+					<td><%= player.id %></td>
+					<td><%= link_to player.name, player %></td>
+					<td><%= player.position %></td>
+				</tr>
+			<% end %>
+		<% else %>
+			<p><i>No players drafted yet...</i></p>		
+		<% end %>
+	</table>
+</div>

@@ -1,0 +1,256 @@
+round	pick	team_name	team_id	player_id
+1	1	St. Louis Rams	29	
+1	2	Detroit Lions	11	
+1	3	Tampa Bay Buccaneers	30	
+1	4	Washington Redskins	32	
+1	5	Kansas City Chiefs	16	
+1	6	Seattle Seahawks	28	
+1	7	Cleveland Browns	8	
+1	8	Oakland Raiders	23	
+1	9	Buffalo Bills	4	
+1	10	Jacksonville Jaguars	15	
+1	11	Denver Broncos	10	
+1	12	Miami Dolphins	17	
+1	13	San Francisco 49ers	27	
+1	14	Seattle Seahawks	28	
+1	15	NY Giants	21	
+1	16	Tennessee Titans	31	
+1	17	San Francisco 49ers	27	
+1	18	Pittsburgh Steelers	25	
+1	19	Atlanta Falcons	2	
+1	20	Houston Texans	13	
+1	21	Cincinnati Bengals	7	
+1	22	New England Patriots	19	
+1	23	Green Bay Packers	12	
+1	24	Philadelphia Eagles	24	
+1	25	Baltimore Ravens	3	
+1	26	Arizona Cardinals	1	
+1	27	Dallas Cowboys	9	
+1	28	San Diego Chargers	26	
+1	29	NY Jets	22	
+1	30	Minnesota Vikings	18	
+1	31	Indianapolis Colts	14	
+1	32	New Orleans Saints	20	
+2	33	St. Louis Rams	29	
+2	34	Detroit Lions	11	
+2	35	Tampa Bay Buccaneers	30	
+2	36	Kansas City Chiefs	16	
+2	37	Philadelphia Eagles	24	
+2	38	Cleveland Browns	8	
+2	39	Oakland Raiders	23	
+2	40	San Diego Chargers	26	
+2	41	Buffalo Bills	4	
+2	42	Tampa Bay Buccaneers	30	
+2	43	Denver Broncos	10	
+2	44	New England Patriots	19	
+2	45	Denver Broncos	10	
+2	46	NY Giants	21	
+2	47	New England Patriots	19	
+2	48	Carolina Panthers	5	
+2	49	San Francisco 49ers	27	
+2	50	Kansas City Chiefs	16	
+2	51	Houston Texans	13	
+2	52	Pittsburgh Steelers	25	
+2	53	New England Patriots	19	
+2	54	Cincinnati Bengals	7	
+2	55	Philadelphia Eagles	24	
+2	56	Green Bay Packers	12	
+2	57	Baltimore Ravens	3	
+2	58	Arizona Cardinals	1	
+2	59	Dallas Cowboys	9	
+2	60	Seattle Seahawks	28	
+2	61	NY Jets	22	
+2	62	Minnesota Vikings	18	
+2	63	Indianapolis Colts	14	
+2	64	New Orleans Saints	20	
+3	65	St. Louis Rams	29	
+3	66	Detroit Lions	11	
+3	67	Tampa Bay Buccaneers	30	
+3	68	Kansas City Chiefs	16	
+3	69	Oakland Raiders	23	
+3	70	Philadelphia Eagles	24	
+3	71	Cleveland Browns	8	
+3	72	Buffalo Bills	4	
+3	73	Miami Dolphins	17	
+3	74	Jacksonville Jaguars	15	
+3	75	Chicago Bears	6	
+3	76	NY Giants	21	
+3	77	Tennessee Titans	31	
+3	78	Carolina Panthers	5	
+3	79	San Francisco 49ers	27	
+3	80	Denver Broncos	10	
+3	81	Houston Texans	13	
+3	82	Pittsburgh Steelers	25	
+3	83	Atlanta Falcons	2	
+3	84	Cincinnati Bengals	7	
+3	85	Cleveland Browns	8	
+3	86	Green Bay Packers	12	
+3	87	Philadelphia Eagles	24	
+3	88	Arizona Cardinals	1	
+3	89	Arizona Cardinals	1	
+3	90	Dallas Cowboys	9	
+3	91	San Diego Chargers	26	
+3	92	Cleveland Browns	8	
+3	93	Minnesota Vikings	18	
+3	94	Indianapolis Colts	14	
+3	95	New Orleans Saints	20	
+3	96	Cincinnati Bengals	7	
+3	97	Tennessee Titans	31	
+3	98	Atlanta Falcons	2	
+4	99	St. Louis Rams	29	
+4	100	Detroit Lions	11	
+4	101	Tampa Bay Buccaneers	30	
+4	102	Kansas City Chiefs	16	
+4	103	Washington Redskins	32	
+4	104	Seattle Seahawks	28	
+4	105	Philadelphia Eagles	24	
+4	106	Oakland Raiders	23	
+4	107	Buffalo Bills	4	
+4	108	Jacksonville Jaguars	15	
+4	109	Chicago Bears	6	
+4	110	Miami Dolphins	17	
+4	111	Tennessee Titans	31	
+4	112	Carolina Panthers	5	
+4	113	San Francisco 49ers	27	
+4	114	Denver Broncos	10	
+4	115	NY Giants	21	
+4	116	Pittsburgh Steelers	25	
+4	117	Atlanta Falcons	2	
+4	118	Houston Texans	13	
+4	119	New England Patriots	19	
+4	120	Cincinnati Bengals	7	
+4	121	Philadelphia Eagles	24	
+4	122	Green Bay Packers	12	
+4	123	Arizona Cardinals	1	
+4	124	NY Jets	22	
+4	125	Dallas Cowboys	9	
+4	126	San Diego Chargers	26	
+4	127	Seattle Seahawks	28	
+4	128	Minnesota Vikings	18	
+4	129	Indianapolis Colts	14	
+4	130	New Orleans Saints	20	
+4	131	Cincinnati Bengals	7	
+5	132	St. Louis Rams	29	
+5	133	Seattle Seahawks	28	
+5	134	Cleveland Browns	8	
+5	135	St. Louis Rams	29	
+5	136	Kansas City Chiefs	16	
+5	137	Denver Broncos	10	
+5	138	Oakland Raiders	23	
+5	139	Seattle Seahawks	28	
+5	140	Buffalo Bills	4	
+5	141	Chicago Bears	6	
+5	142	Kansas City Chiefs	16	
+5	143	Jacksonville Jaguars	15	
+5	144	Kansas City Chiefs	16	
+5	145	Miami Dolphins	17	
+5	146	Cleveland Browns	8	
+5	147	NY Giants	21	
+5	148	Tennessee Titans	31	
+5	149	Atlanta Falcons	2	
+5	150	Houston Texans	13	
+5	151	Pittsburgh Steelers	25	
+5	152	Cincinnati Bengals	7	
+5	153	Tampa Bay Buccaneers	30	
+5	154	Green Bay Packers	12	
+5	155	Pittsburgh Steelers	25	
+5	156	Baltimore Ravens	3	
+5	157	Baltimore Ravens	3	
+5	158	Oakland Raiders	23	
+5	159	San Diego Chargers	26	
+5	160	Cleveland Browns	8	
+5	161	Minnesota Vikings	18	
+5	162	Indianapolis Colts	14	
+5	163	Washington Redskins	32	
+5	164	Pittsburgh Steelers	25	
+5	165	Atlanta Falcons	2	
+5	166	Pittsburgh Steelers	25	
+5	167	Minnesota Vikings	18	
+5	168	San Diego Chargers	26	
+5	169	Green Bay Packers	12	
+5	170	St. Louis Rams	29	
+6	171	Atlanta Falcons	2	
+6	172	Tampa Bay Buccaneers	30	
+6	173	Miami Dolphins	17	
+6	174	Miami Dolphins	17	
+6	175	Carolina Panthers	5	
+6	176	Seattle Seahawks	28	
+6	177	Cleveland Browns	8	
+6	178	Buffalo Bills	4	
+6	179	Miami Dolphins	17	
+6	180	Jacksonville Jaguars	15	
+6	181	Chicago Bears	6	
+6	182	San Francisco 49ers	27	
+6	183	Denver Broncos	10	
+6	184	NY Giants	21	
+6	185	Tennessee Titans	31	
+6	186	Cleveland Browns	8	
+6	187	Houston Texans	13	
+6	188	Pittsburgh Steelers	25	
+6	189	Atlanta Falcons	2	
+6	190	New England Patriots	19	
+6	191	Cincinnati Bengals	7	
+6	192	Buffalo Bills	4	
+6	193	Green Bay Packers	12	
+6	194	Baltimore Ravens	3	
+6	195	Arizona Cardinals	1	
+6	196	Dallas Cowboys	9	
+6	197	Houston Texans	13	
+6	198	NY Jets	22	
+6	199	Minnesota Vikings	18	
+6	200	Philadelphia Eagles	24	
+6	201	New Orleans Saints	20	
+6	202	Carolina Panthers	5	
+6	203	Jacksonville Jaguars	15	
+6	204	Carolina Panthers	5	
+6	205	New England Patriots	19	
+6	206	San Francisco 49ers	27	
+6	207	Tennessee Titans	31	
+7	208	Washington Redskins	32	
+7	209	Buffalo Bills	4	
+7	210	Tampa Bay Buccaneers	30	
+7	211	St. Louis Rams	29	
+7	212	Miami Dolphins	17	
+7	213	Detroit Lions	11	
+7	214	Detroit Lions	11	
+7	215	Oakland Raiders	23	
+7	216	Buffalo Bills	4	
+7	217	Tampa Bay Buccaneers	30	
+7	218	Chicago Bears	6	
+7	219	Miami Dolphins	17	
+7	220	Detroit Lions	11	
+7	221	NY Giants	21	
+7	222	Tennessee Titans	31	
+7	223	Carolina Panthers	5	
+7	224	San Francisco 49ers	27	
+7	225	Tampa Bay Buccaneers	30	
+7	226	St. Louis Rams	29	
+7	227	Houston Texans	13	
+7	228	Cincinnati Bengals	7	
+7	229	New England Patriots	19	
+7	230	Green Bay Packers	12	
+7	231	New England Patriots	19	
+7	232	Tampa Bay Buccaneers	30	
+7	233	Arizona Cardinals	1	
+7	234	Dallas Cowboys	9	
+7	235	San Diego Chargers	26	
+7	236	NY Jets	22	
+7	237	Minnesota Vikings	18	
+7	238	Indianapolis Colts	14	
+7	239	New Orleans Saints	20	
+7	240	Indianapolis Colts	14	
+7	241	Tennessee Titans	31	
+7	242	Pittsburgh Steelers	25	
+7	243	Philadelphia Eagles	24	
+7	244	Philadelphia Eagles	24	
+7	245	Seattle Seahawks	28	
+7	246	Indianapolis Colts	14	
+7	247	New England Patriots	19	
+7	248	New England Patriots	19	
+7	249	Carolina Panthers	5	
+7	250	New England Patriots	19	
+7	251	Oakland Raiders	23	
+7	252	Miami Dolphins	17	
+7	253	Tampa Bay Buccaneers	30	
+7	254	St. Louis Rams	29	
+7	255	Detroit Lions	11	
